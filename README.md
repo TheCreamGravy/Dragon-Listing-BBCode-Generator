@@ -56,7 +56,7 @@ Q: Where did it save the BBCode?
 A: On your desktop. It will be a .txt document with the dragon's name as the title.
 
 Q: It says I have an error!
-A: IDK how, but you broke it. (Send me a message)[https://www1.flightrising.com/msgs/new?to=CreamGravy] and We'll look into it!
+A: IDK how, but you broke it. [Send me a message](https://www1.flightrising.com/msgs/new?to=CreamGravy) and We'll look into it!
 
 Q: Why this instead of a Google Sheets thing?
 A: Because I'm terrible with Sheets. I also prefer the ease of a form like this rather than a google doc. I've tried lol
