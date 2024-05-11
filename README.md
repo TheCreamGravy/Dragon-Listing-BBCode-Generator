@@ -1,4 +1,4 @@
-~[Dragon Listing BBCode Generator Logo](https://i.imgur.com/WVuALma.png)
+![Dragon Listing BBCode Generator Logo](https://i.imgur.com/WVuALma.png)
 
 ## Dragon Listing BBCode Generator ##
 
