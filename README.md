@@ -33,11 +33,11 @@ Windows Defender MAY ask if you want to run this program. You may also have to r
 
 Here's the fun part! OwO This program ONLY needs your input; it will fill in the blanks in the code, and export a text document you can simply copy and paste said BBCode into the forums. After not playing FR for several years, I had quite a bit ot get caught up on, so buckle in!
 
-* Dragon ID: This is used to generate the dragon's image (The same you'd see if you clicked on the dragon in the lair), as well as the link to buy and scry! No more putting in the image URL, we do that for ya. OwO
+* Dragon ID: This is used to generate the dragon's image (The same you'd see if you clicked on the dragon in the lair), as well as the link to buy and scry! No more pointles grabbing urls to copy. (Again, we are not pulling any information from the site directly; our program just does the math for the urls.)
 * Dragon's Name: If your dragon has a name, put it here! Otherwise, use "Unnamed" (Leaving this blank throws the layout off a bit)
 * Pair Name: If your dragon comes from a hatchery, that's where this goes. Otherwise, it can be left blank.
 * Hatchday: [HAPPY BIRTHDAY!](https://www.youtube.com/watch?v=__xdaj422b8) Your dragon's hatchday! For people who like dragons hatched on specific days.
-* Modern or Ancient Button: This not only includes the respective icon in the listing, but will you the respective lists of modern and ancient dragons and their genes.
+* Modern or Ancient Button: This not only includes the respective icon in the listing, but will give you the respective lists of modern and ancient dragons and their genes.
 * Breed: You'll get modern breeds if you select the modern button, and ancient breeds if you select ancient.
 * Element: The dragon's element. Necessary for the eye color as well.
 * Eye Type: Self-explanatory.
@@ -69,6 +69,9 @@ A: Most likely not. We don't know any other programming languages, and...yeah. N
 Q: Have you added X yet?
 A: We will push an update relatively shortly after a new breed/gene update (Please give us some time after a new breed to add everything).
 
+Q: Can we see your code?
+A: Let us get it cleaned up first. This has grown very organically since our first build back in like. 2018. The code is fugly. You don't wanna see it. It'll rot your eyes out.
+
 ## FUTURE BUILD ROADMAP ##
 
 This little section is all things we're going to look into and do for future builds!
@@ -76,4 +79,5 @@ This little section is all things we're going to look into and do for future bui
 * Color-coded color dropdown! Eventually, we will color-code the colors just like how FR has it. This will probably in the next build.
 * Copying to clipboard and/or previewing your code: We'd love for you to just copy it from a textbox, like with Google Sheets. This is a little more involved, so give us some time on this.
 * Checking for updates: We're DEFINITELY looking into a button that will let you check for updates!
-* Dark Mode: Bear with me on this. I did this for a project back in HIGH SCHOOL. I do NOT remember how to do it now. :P 
+* Dark Mode: Bear with me on this. I did this for a project back in HIGH SCHOOL. I do NOT remember how to do it now. :P
+* Form clearing: For when you want to list a billion dragons on your hatchery page.
