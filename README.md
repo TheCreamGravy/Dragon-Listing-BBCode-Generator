@@ -42,12 +42,16 @@ Here's the fun part! OwO This program ONLY needs your input; it will fill in the
 * Element: The dragon's element. Necessary for the eye color as well.
 * Eye Type: Self-explanatory.
 * Gender: You'll have a checkbox for if the dragon is under the effect of a Silhouette scroll later.
-* Colors & Genes: Remember when I said if you select ancient, you'll get the ancient breeds? Well, if you select a specific ancient breed (ie. Veilspun), you'll get only that breeds genes. Cool, huh? You can also begin typing the color or gene to autocomplete and filter through. That was an amazing last-minute discovery.
+* Colors & Genes: Remember when I said if you select ancient, you'll get the ancient breeds? Well, if you select a specific ancient breed (ie. Veilspun), you'll get only that breeds genes. Cool, huh? You can also begin typing the color or gene to autocomplete and filter through. That was an amazing last-minute discovery. This program also automatically determines dragon color combos (XYZ, XXY, etc)!
 * MONEY. If you only want to accept one type of payment, the other must say 0.
 
 Then all you gotta do is hit export! The program (for now) creates a file on your desktop containing your bbcode. You can review this code before pasting it into the forums! Then make your money, bestie!
 
 **For MAC Users:** You will have to use Wine, a program that allows you to run .exe programs on your Mac. We don't own a Mac so this is how it gotta be. :P (Thanks to @missnanners!) 
+
+## Known Issues ##
+
+If you try to use this program with your display zoomed in, the bottom of the program will get cut off. You can tab to the export button, but we had our display set at 150% (because coding on a TV) and it was too big. We currently have no plans to adjust this at this time.
 
 ## Frequently Asked Questions ##
 
