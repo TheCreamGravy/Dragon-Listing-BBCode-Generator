@@ -34,7 +34,7 @@ Here's the fun part! OwO This program ONLY needs your input; it will fill in the
 * Dragon ID: This is used to generate the dragon's image (The same you'd see if you clicked on the dragon in the lair), as well as the link to buy and scry! No more putting in the image URL, we do that for ya. OwO
 * Dragon's Name: If your dragon has a name, put it here! Otherwise, use "Unnamed" (Leaving this blank throws the layout off a bit)
 * Pair Name: If your dragon comes from a hatchery, that's where this goes. Otherwise, it can be left blank.
-* Hatchday: [HAPPY BIRTHDAY!] (https://www.youtube.com/watch?v=__xdaj422b8) Your dragon's hatchday! For people who like dragons hatched on specific days.
+* Hatchday: [HAPPY BIRTHDAY!](https://www.youtube.com/watch?v=__xdaj422b8) Your dragon's hatchday! For people who like dragons hatched on specific days.
 * Modern or Ancient Button: This not only includes the respective icon in the listing, but will you the respective lists of modern and ancient dragons and their genes.
 * Breed: You'll get modern breeds if you select the modern button, and ancient breeds if you select ancient.
 * Element: The dragon's element. Necessary for the eye color as well.
