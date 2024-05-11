@@ -108,4 +108,5 @@
 * Sorted ancient genes by breed
 * Added a credits button :3
 * Reordered the tab index for the 100th time
+* Added a shiny new DESKTOP ICON. It's so CUTE. It egg.
 - We apologize for removing Tidelord, we thought he'd be back by now...
