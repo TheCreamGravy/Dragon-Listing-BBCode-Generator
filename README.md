@@ -1,3 +1,5 @@
+~[Dragon Listing BBCode Generator Logo](https://i.imgur.com/WVuALma.png)
+
 ## Dragon Listing BBCode Generator ##
 
 **This is the official new home of the Dragon Listing BBCode Generator for Flight rising!**
