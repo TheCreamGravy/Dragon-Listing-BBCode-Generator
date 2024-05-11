@@ -56,24 +56,31 @@ If you try to use this program with your display zoomed in, the bottom of the pr
 ## Frequently Asked Questions ##
 
 Q: It won't export!
+
 A: Make sure you have whitelisted this program with your antivirus, as well as running it in Administrative Mode.
 
 Q: Where did it save the BBCode?
+
 A: On your desktop. It will be a .txt document with the dragon's name as the title.
 
 Q: It says I have an error!
+
 A: IDK how, but you broke it. [Send me a message](https://www1.flightrising.com/msgs/new?to=CreamGravy) and We'll look into it!
 
 Q: Why this instead of a Google Sheets thing?
+
 A: Because I'm terrible with Sheets. I also prefer the ease of a form like this rather than a google doc. I've tried lol
 
 Q: Will you make this a website/mobile app/for mac/linux/etc?
+
 A: Most likely not. We don't know any other programming languages, and...yeah. Nah. XD
 
 Q: Have you added X yet?
+
 A: We will push an update relatively shortly after a new breed/gene update (Please give us some time after a new breed to add everything).
 
 Q: Can we see your code?
+
 A: Let us get it cleaned up first. This has grown very organically since our first build back in like. 2018. The code is fugly. You don't wanna see it. It'll rot your eyes out.
 
 ## FUTURE BUILD ROADMAP ##
