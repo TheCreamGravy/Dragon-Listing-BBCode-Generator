@@ -31,8 +31,8 @@
 * Reordered TabIndex...again
 * Changed formatting of visual layout
 * Still awaiting feedback on Landscape formatting
--Removed Tidelord
--Removed Herobrine
+- Removed Tidelord
+- Removed Herobrine
 
 08/09/18=================================
 * Added Primary Gene Starmap
@@ -107,4 +107,5 @@
 * Added a hatchday field
 * Sorted ancient genes by breed
 * Added a credits button :3
-* Removed Herobrine
+* Reordered the tab index for the 100th time
+- We apologize for removing Tidelord, we thought he'd be back by now...
