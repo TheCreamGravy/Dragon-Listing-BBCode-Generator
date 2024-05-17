@@ -53,6 +53,8 @@ Then all you gotta do is hit export! The program (for now) creates a file on you
 
 If you try to use this program with your display zoomed in, the bottom of the program will get cut off. You can tab to the export button, but we had our display set at 150% (because coding on a TV) and it was too big. We currently have no plans to adjust this at this time.
 
+Some antivirus programs (Windows Defender & Bitdefender are known) consider this program a virus for some reason. We believe it's because we have some commented-out code for building the optino to "copy to clipboard". We'll be looking over this to resolve it soon.
+
 ## Frequently Asked Questions ##
 
 Q: It won't export!
