@@ -7,9 +7,9 @@
 
 This is a joint project between myself and my husband, EternalJedi. He did 90% of the coding, and I did the layout.
 
-To bein, this program does not modify the site, download assets, or otherwise interact with the site in any way. It only takes information you provide and adds it to create the scrying workshop, buy, and dragon lair page urls, as well as the image for the dragon itself.
+To begin, this program does not modify the site, download assets, or otherwise interact with the site in any way. It only takes information you provide and adds it to create the scrying workshop, buy, and dragon lair page urls, as well as the image for the dragon itself.
 
-In the near future, all builds of this program will come from here. If you see this program available for download anywhere else, especially behind a paywall,  **do not download it**. 
+In the near future, all builds of this program will come from here. If you see this program available for download anywhere else, especially behind a paywall,  **do not download it**. We will be uploading the source in full... as soon as we figure out how to do that. Then you can make forks of it, just don't claim you made it yourself. :P
 
 This program is free to use, forever! Tips are appreciated, but NEVER required. [You can send us a Ko-Fi here!](https://ko-fi.com/mattsykun). 
 Alternatively, I do accept tips in gems, treasure, materials, and fish (oh my god I have so many dragons that eat seafood) [You can find my Flight Rising profile here!](https://www1.flightrising.com/clan-profile/310323)
@@ -20,7 +20,7 @@ Flight Rising and all other graphics/assets/etc (c) Stormlight Workshop, LLC.
 
 ## Prerequisites ##
 
-Windows. That's it. This has not yet been tested on Windows 11.
+Windows. That's it. This has not yet been tested on Windows 11, use at your own risk (I will not be upgrading to 11, I'd rather die)
 
 ## Installation ##
 
@@ -83,7 +83,7 @@ A: We will push an update relatively shortly after a new breed/gene update (Plea
 
 Q: Can we see your code?
 
-A: Let us get it cleaned up first. This has grown very organically since our first build back in like. 2018. The code is fugly. You don't wanna see it. It'll rot your eyes out.
+A: We'll be posting the code soon. You're welcome to make a fork of it to fix it flagging as a virus. PLEASE.
 
 ## FUTURE BUILD ROADMAP ##
 
